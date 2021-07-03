@@ -1,4 +1,4 @@
 # Time-Table-CSV-Reader
 An app that reads a CSV file and displays the data onto a webpage depending on the current date.
 
-![](Time Table.PNG)
+![](Time Table.png)
